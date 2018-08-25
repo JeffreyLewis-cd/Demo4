@@ -23,6 +23,11 @@
 
     <!--测试-->
     <dependency>
+      <groupId>net.sourceforge</groupId>
+      <artifactId>pinyin4j</artifactId>
+      <version>2.5.0</version>
+    </dependency>
+    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.12</version>
